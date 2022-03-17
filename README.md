@@ -1,4 +1,4 @@
-# SynergyTestTask
+# Hi
 
 
 What you need to start the project:
